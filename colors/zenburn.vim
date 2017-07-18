@@ -228,7 +228,7 @@ hi FoldColumn      guifg=#93b3a3 guibg=#3f4040
 hi Folded          guifg=#93b3a3 guibg=#3f4040
 hi Function        guifg=#efef8f                              ctermfg=228
 hi Identifier      guifg=#efdcbc                              ctermfg=223 cterm=none
-hi IncSearch       guifg=#f8f893 guibg=#385f38                ctermfg=228 ctermbg=23
+hi IncSearch       guifg=#385f38 guibg=#f8f893                ctermfg=228 ctermbg=23
 hi Keyword         guifg=#f0dfaf gui=bold                     ctermfg=223 cterm=bold
 hi Macro           guifg=#ffcfaf gui=bold                     ctermfg=223 cterm=bold
 hi ModeMsg         guifg=#ffcfaf gui=none                     ctermfg=223 cterm=none
@@ -255,7 +255,7 @@ hi String          guifg=#cc9393                              ctermfg=174
 hi Structure       guifg=#efefaf gui=bold                     ctermfg=229 cterm=bold
 hi Tag             guifg=#e89393 gui=bold                     ctermfg=181 cterm=bold
 hi Title           guifg=#efefef gui=bold                     ctermfg=255 ctermbg=NONE cterm=bold
-hi Todo            guifg=#dfdfdf guibg=NONE    gui=bold       ctermfg=254 ctermbg=NONE cterm=bold
+hi Todo            guifg=#dfdfdf guibg=bg      gui=bold       ctermfg=254 ctermbg=NONE cterm=bold
 hi Typedef         guifg=#dfe4cf gui=bold                     ctermfg=253 cterm=bold
 hi Type            guifg=#dfdfbf gui=bold                     ctermfg=187 cterm=bold
 hi Underlined      guifg=#dcdccc gui=underline                ctermfg=188 cterm=underline
